@@ -28,3 +28,10 @@ body {
     color:aquamarine;
     ;
 }
+/*FOOTER */ 
+.footer--copyright{
+    font-size: 21px;
+    color:#808080;
+    text-align: right;
+
+}
